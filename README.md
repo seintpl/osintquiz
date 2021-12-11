@@ -13,6 +13,6 @@ For MD5 hashes, you can use [CyberChef](https://gchq.github.io/CyberChef/#recipe
 
 Have fun!
 
-To start, just use the hash of the word RABBIT to uncover the first level task.
+To start, just use the hash of the word "rabbit" (without quotes) to uncover the first level task.
 
 If you want to contact me, you can find me on Twitter: [@SEINT_pl](https://twitter.com/seint_pl)
