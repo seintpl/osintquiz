@@ -15,4 +15,4 @@ Have fun!
 
 To start, just use the hash of the word "rabbit" (without quotes) to uncover the first level task.
 
-If you want to contact me, you can find me on Twitter: [@SEINT_pl](https://twitter.com/seint_pl)
+If you want to contact me, you can find me on Twitter: [@SEINT_pl](https://twitter.com/seint_pl) or email me at: theseint[at]pm.me
