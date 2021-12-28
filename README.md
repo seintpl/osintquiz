@@ -4,6 +4,8 @@
 
 ![White rabbit](rabbit.png)
 
+Welcome to the 2021 OSINT quiz: "OSINT puzzles from Hotelrooms and other strange places"!
+
 In this repository you will find a password-protected archive with different OSINT and geolocation quiz tasks.
 Follow the white rabbit down the rabbit hole through different sites in different parts of the world and using your OSINT skills try to find all the answers. Remember that the tools aren’t enough. Use your open mind and try not to fall in the mind traps. If you are really stuck, look at the tips. Seeing them before trying your own ideas will spoil you all the fun.
 
