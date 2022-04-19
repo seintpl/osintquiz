@@ -17,4 +17,11 @@ Have fun!
 
 To start, just use the hash of the word "rabbit" (without quotes) to uncover the first level task.
 
+### Contact
+
 If you want to contact me, you can find me on Twitter: [@SEINT_pl](https://twitter.com/seint_pl) or email me at: theseint[at]pm.me
+
+### Writeups / walkthrough
+
+* Walkthrough written by Jules Lewis: [Part 1](https://jules-lewis.blogspot.com/2022/02/osint-walkthrough-the-seint-part-1.html), [Part 2](https://jules-lewis.blogspot.com/2022/02/osint-walkthrough-the-seint-part-2.html), [Part 3](https://jules-lewis.blogspot.com/2022/04/osint-walkthrough-the-seint-part-3.html).
+* 
