@@ -1,6 +1,9 @@
 # OSINT puzzles from Hotelrooms and other strange places
 
-### OSINT & geolocation quizzes
+### OSINT & geolocation quizzes:
+
+* [2021](/2021)
+* [2022](/2022)
 
 ![White rabbit](rabbit.png)
 
