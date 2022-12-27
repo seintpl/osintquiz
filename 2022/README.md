@@ -19,5 +19,4 @@ If you want to contact me, you can find me on Twitter: [@SEINT_pl](https://twitt
 
 ### Writeups / walkthrough
 
-* None yet. If you have written one, please let me know!
-* I will publish the walkthrough shortly.
+* [Writeup by Twitter user VincentBoucard](https://osint-ctf.gitlab.io/docs/osintquiz/2022/)
