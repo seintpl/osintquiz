@@ -20,4 +20,4 @@ If you want to contact me, you can find me on Twitter: [@SEINT_pl](https://twitt
 ### Writeups / walkthrough
 
 * [Writeup by Twitter user VincentBoucard](https://osint-ctf.gitlab.io/docs/osintquiz/2022/)
-* [Wruteup by Twitter user D4rkPhoneix](https://hemchudaesh.medium.com/osint-ctf-2022-2738df5b4bcf)
+* [Writeup by Twitter user D4rkPhoneix](https://hemchudaesh.medium.com/osint-ctf-2022-2738df5b4bcf)
