@@ -21,3 +21,4 @@ If you want to contact me, you can find me on Twitter: [@SEINT_pl](https://twitt
 
 * [Writeup by Twitter user VincentBoucard](https://osint-ctf.gitlab.io/docs/osintquiz/2022/)
 * [Writeup by Twitter user D4rkPhoneix](https://hemchudaesh.medium.com/osint-ctf-2022-2738df5b4bcf)
+* [Writeup by Twitter user OSINT News](https://osint-news.github.io/osint-walkthrough-the-seint-ctf-2022.html)
