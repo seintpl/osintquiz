@@ -11,7 +11,9 @@ For MD5 hashes, you can use [CyberChef](https://gchq.github.io/CyberChef/#recipe
 
 Have fun!
 
-To start, just use the hash of the word "dive" (without quotes) to uncover the first level task.
+### Start
+
+**To start, just use the hash of the word "dive" (without quotes) to uncover the first level task.**
 
 ### Contact
 
