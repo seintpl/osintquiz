@@ -21,5 +21,5 @@ If you want to contact me, you can find me on Twitter: [@SEINT_pl](https://twitt
 
 ### Writeups / walkthrough
 
-* Walkthrough written by Jules Lewis: [Part 1](https://jules-lewis.blogspot.com/2022/02/osint-walkthrough-the-seint-part-1.html), [Part 2](https://jules-lewis.blogspot.com/2022/02/osint-walkthrough-the-seint-part-2.html), [Part 3](https://jules-lewis.blogspot.com/2022/04/osint-walkthrough-the-seint-part-3.html).
-* 
+* Walkthrough written by Jules Lewis: [Part 1](https://jules-lewis.blogspot.com/2022/02/osint-walkthrough-the-seint-part-1.html), [Part 2](https://jules-lewis.blogspot.com/2022/02/osint-walkthrough-the-seint-part-2.html), [Part 3](https://jules-lewis.blogspot.com/2022/04/osint-walkthrough-the-seint-part-3.html) & [Part 4](https://jules-lewis.blogspot.com/2022/05/osint-walkthrough-the-seint-part-4.html).
+* ...
