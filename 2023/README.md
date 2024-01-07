@@ -23,4 +23,5 @@ If you want to contact me, you can find me on Twitter: [@SEINT_pl](https://twitt
 
 * [by Twitter user Haris](https://www.harisqazi.com/write-ups/seint_pl-osint-quiz/2023)
 * by Jules Lewis: [Part 1](https://jules-lewis.blogspot.com/2024/01/back-on-seints-trail-2023-osint.html)
-* If you have written one, please let me know!
+* [by Sp4mel4](https://medium.com/@sp4mel4/writeup-of-seints-2023-osint-quiz-c7e3d3dcdeeb)
+
