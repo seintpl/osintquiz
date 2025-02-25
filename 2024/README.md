@@ -19,4 +19,4 @@ If you want to reach out, our contact info can be found here: [@SEINT_pl](https:
 
 ### Writeups / walkthrough
 
-* None yet. If you have written one, please let me know!
+* [2024 OSINTquiz write-up by p-o-s-t](https://github.com/p-o-s-t/CTFs/blob/main/SEINT_pl%20OSINT%20Quiz/2024/Steps.md)
