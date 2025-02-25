@@ -20,3 +20,4 @@ If you want to reach out, our contact info can be found here: [@SEINT_pl](https:
 ### Writeups / walkthrough
 
 * [2024 OSINTquiz write-up by p-o-s-t](https://github.com/p-o-s-t/CTFs/blob/main/SEINT_pl%20OSINT%20Quiz/2024/Steps.md)
+* [Walkthrough by Jules](https://jules-lewis.github.io/blog/hotelrooms-and-other-strange-places-2024.html)
